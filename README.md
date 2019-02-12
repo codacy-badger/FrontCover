@@ -1,4 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/JusteUnSonge/FrontCover/badge.svg?branch=develop)](https://coveralls.io/github/JusteUnSonge/FrontCover?branch=develop)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ffeba6157e4b4693a9917a8bd626be56)](https://www.codacy.com/app/JusteUnSonge/FrontCover?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JusteUnSonge/FrontCover&amp;utm_campaign=Badge_Grade)
 
 # FrontCover
 
